@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "314317245294",
+    "project_id": "kavach-hibernatives",
+    "storage_bucket": "kavach-hibernatives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314317245294:android:c09f17cc4e580a855acf7f",
+        "android_client_info": {
+          "package_name": "com.example.kriyeta_event_manage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314317245294-scfltea287dpkqcgq2hhsvbhi8sed7de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMd0MI0N4PRW55UY4h-Luouej3r6o1m3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314317245294-scfltea287dpkqcgq2hhsvbhi8sed7de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314317245294:android:3d2da16341ac2d375acf7f",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_hibernatives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314317245294-scfltea287dpkqcgq2hhsvbhi8sed7de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMd0MI0N4PRW55UY4h-Luouej3r6o1m3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314317245294-scfltea287dpkqcgq2hhsvbhi8sed7de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
